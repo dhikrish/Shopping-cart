@@ -1,0 +1,6 @@
+C:\Users\MS00340748\Documents\Visual Studio 2012\Projects\Shopping cart\Shopping cart\bin\Debug\Shopping cart.exe.config
+C:\Users\MS00340748\Documents\Visual Studio 2012\Projects\Shopping cart\Shopping cart\bin\Debug\Shopping cart.exe
+C:\Users\MS00340748\Documents\Visual Studio 2012\Projects\Shopping cart\Shopping cart\bin\Debug\Shopping cart.pdb
+C:\Users\MS00340748\Documents\Visual Studio 2012\Projects\Shopping cart\Shopping cart\obj\Debug\Shopping cart.exe
+C:\Users\MS00340748\Documents\Visual Studio 2012\Projects\Shopping cart\Shopping cart\obj\Debug\Shopping cart.pdb
+C:\Users\MS00340748\Documents\Visual Studio 2012\Projects\Shopping cart\Shopping cart\obj\Debug\Shopping cart.csprojResolveAssemblyReference.cache
